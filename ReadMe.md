@@ -16,6 +16,7 @@ This project is a deepfake detection model developed using a CNN-LSTM architectu
     OpenCV
     Matplotlib
     Scikit-learn
+    torchinfo
 
 ## Installation Steps locally(VS code)
     1. Set up Python environment:
